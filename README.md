@@ -1,0 +1,1 @@
+# liferay-fortune-teller
