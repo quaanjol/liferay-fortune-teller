@@ -1,0 +1,4 @@
+Bundle-Name: fortune-teller
+Bundle-SymbolicName: fortune.teller
+Bundle-Version: 1.0.0
+Export-Package: fortune.teller.constants
